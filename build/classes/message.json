@@ -1,0 +1,7 @@
+{
+	message : "messageID",
+	sender : "email",
+	time : "",
+	text : ""
+
+}

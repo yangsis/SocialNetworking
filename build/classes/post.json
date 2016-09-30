@@ -1,0 +1,9 @@
+{
+	_id : "uuid",
+	owner_id: "",
+	time : "",
+	liker : [ "email",
+			  "email"
+			  ]
+	text : ""
+}

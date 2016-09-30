@@ -1,0 +1,15 @@
+{
+	_id : "groupID"
+	groupName : "",
+	description : "",
+	groupPicture : "",
+	groupUser : [ "email",
+				  "email",
+				  "email"
+				  ]
+	postList : [ "postID",
+				 "postID",
+				 "postID"
+				 ],
+	groupOwner : "emailID"
+}

@@ -1,0 +1,6 @@
+{
+	inbox_id : "email",
+	session : [ "sessionID",
+				"sessinoID",
+				"sessionID"]
+}

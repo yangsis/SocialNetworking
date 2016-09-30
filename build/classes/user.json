@@ -1,0 +1,19 @@
+{
+	_id : "email",
+	firstName : "",
+	lastName : "",
+	password : "",
+	birthday : "",
+	status : "",
+	picture : "pictureID",
+	securityQ : "",
+	securityA : "",
+	friendList : [ "email" : "yes/no",
+				   "email" : "yes/no"
+				 ]
+	groupList : [ "groupID",
+				  "groupID"
+				  ],
+	inbox : [ chatID,
+			  chatID,]
+}

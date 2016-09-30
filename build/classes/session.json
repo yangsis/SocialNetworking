@@ -1,0 +1,13 @@
+{
+	session_id : "ID",
+	startDate : "",
+	endDate   : "",
+	startTime : "",
+	endTime   : ""
+	receiver : [ "email",
+				 "email"
+				 ],
+	message : [ "messageID",
+				"messageID"
+				]
+}
